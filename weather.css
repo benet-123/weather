@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Qwitcher+Grypen&family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Qwitcher+Grypen&family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Qwitcher+Grypen&family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Qwitcher+Grypen&family=Slabo+27px&display=swap');
+body{
+    background-image: url("./weatherimage/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h3{
+    color:white;
+    font-family: 'Slabo 27px', serif;
+   letter-spacing:2px;
+}
+    h1{
+        font-family: 'Alkalami', serif;
+        color:white;
+    }
+    h2{
+        color:white;
+        font-family: 'Qwitcher Grypen', cursive;
+
+    }
+h4{
+    color:white;
+    font-family: 'Slabo 27px', serif;
+    letter-spacing: 2px;
+}
